@@ -9,7 +9,7 @@ This helps to keep our codebase dry.
 ### Tweet
 To tweet a message, call the `tweet` workflow.
 
-This should be used whenever an action is taken that was previously manually executed.
+We like to use this whenever an action is run that was previously done manually.
 
 ```yml
 jobs:
