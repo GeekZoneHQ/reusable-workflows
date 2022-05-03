@@ -1,5 +1,6 @@
 # Geek.Zone Reusable Workflows
-Call workflows in the `geekzonehq/reusableworkflows/.github/workflows` directory.
+Our home for GitHub Actions [reusable workflows](https://docs.github.com/en/actions/using-workflows/reusing-workflows).
+If you find the need to use a workflow in more than one repo, move it here and call it.
 
 ## Why?
 This helps to keep our codebase dry.
