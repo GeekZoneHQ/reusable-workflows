@@ -13,7 +13,7 @@ This should be used whenever an action is taken that was previously manually exe
 
 ```yml
 jobs:
-  rw-tweet:
+  tweet:
     uses: geekzonehq/reusable-workflows/.github/workflows/tweet.yml@main
     with:
       message: "change me!"
